@@ -23,9 +23,4 @@
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, ggplot2, BeautifulSoup
 
-### 📊 GitHub Stats
-![Jia Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=daren6666&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daren6666&layout=compact&theme=transparent)
-
----
 📫 **Reach me at:** [daren890622@gmail.com](mailto:daren890622@gmail.com)
